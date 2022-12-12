@@ -4,3 +4,8 @@ EUC_2D/
 *.out
 *.csv
 .DS_STORE
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/TSPHeuristics.iml
+.idea/vcs.xml
